@@ -1,1 +1,1 @@
-Built version of the Erlang OTP v18.3.4.4 with modifications to run on OSv
+Built version of the Erlang OTP v20.0.5 with modifications to run on OSv

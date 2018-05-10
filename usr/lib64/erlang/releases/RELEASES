@@ -1,5 +1,0 @@
-[{release,"Erlang/OTP","18","7.0",
-          [{kernel,"4.0","/usr/lib64/erlang/lib/kernel-4.0"},
-           {stdlib,"2.5","/usr/lib64/erlang/lib/stdlib-2.5"},
-           {sasl,"2.5","/usr/lib64/erlang/lib/sasl-2.5"}],
-          permanent}].
