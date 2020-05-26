@@ -1,6 +1,6 @@
 %% coding: utf-8
-[{release,"Erlang/OTP","21","10.0",
-          [{kernel,"6.0","/lib/kernel-6.0"},
-           {stdlib,"3.5","/lib/stdlib-3.5"},
-           {sasl,"3.2","/lib/sasl-3.2"}],
+[{release,"Erlang/OTP","23","11.0.1",
+          [{kernel,"7.0","/usr/local/packages/OTP-23.0.1-OSv/lib/kernel-7.0"},
+           {stdlib,"3.13","/usr/local/packages/OTP-23.0.1-OSv/lib/stdlib-3.13"},
+           {sasl,"4.0","/usr/local/packages/OTP-23.0.1-OSv/lib/sasl-4.0"}],
           permanent}].
